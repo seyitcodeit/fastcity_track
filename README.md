@@ -4,3 +4,4 @@
 - Includes Xcode Unit test for true and false searchings
 - No database and no network request used
 - Includes also corner cases like all diacritical marks in search such as é,è,ê etc.
+For more detail please check: http://seyitkaya.net/binary-search:
